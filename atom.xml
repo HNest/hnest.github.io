@@ -1,0 +1,396 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>啊晖de老窝</title>
+  
+  <subtitle>I am David H. Deng~</subtitle>
+  <link href="https://hnest.github.io/atom.xml" rel="self"/>
+  
+  <link href="https://hnest.github.io/"/>
+  <updated>2025-03-03T19:30:10.040Z</updated>
+  <id>https://hnest.github.io/</id>
+  
+  <author>
+    <name>David H. Deng</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Mac配置锁？盘它！</title>
+    <link href="https://hnest.github.io/posts/60050"/>
+    <id>https://hnest.github.io/posts/60050</id>
+    <published>2025-01-21T01:05:53.000Z</published>
+    <updated>2025-03-03T19:30:10.040Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;一、什么是配置锁？&quot;&gt;&lt;a href=&quot;#一、什么是配置锁？&quot; class=&quot;headerlink&quot; title=&quot;一、什么是配置锁？&quot;&gt;&lt;/a&gt;一、什么是配置锁？&lt;/h2&gt;&lt;p&gt;配置锁（MDM）是企业&amp;#x2F;机构向苹果定制的监管功能&lt;a</summary>
+        
+      
+    
+    
+    
+    <category term="刷机" scheme="https://hnest.github.io/categories/%E5%88%B7%E6%9C%BA/"/>
+    
+    
+    <category term="教程" scheme="https://hnest.github.io/tags/%E6%95%99%E7%A8%8B/"/>
+    
+    <category term="玩机技巧" scheme="https://hnest.github.io/tags/%E7%8E%A9%E6%9C%BA%E6%8A%80%E5%B7%A7/"/>
+    
+    <category term="Mac" scheme="https://hnest.github.io/tags/Mac/"/>
+    
+    <category term="Apple" scheme="https://hnest.github.io/tags/Apple/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Ubuntu for WSL2 启用图形桌面</title>
+    <link href="https://hnest.github.io/posts/39668"/>
+    <id>https://hnest.github.io/posts/39668</id>
+    <published>2024-10-13T04:10:47.000Z</published>
+    <updated>2025-03-03T19:30:10.040Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;Windows 系统自带的 WSL 用起虚拟机来真的很舒服，&lt;br&gt;最近尝试了 Ubuntu 24.04.1 LTS for WSL2，&lt;br&gt;配置出来超级完美！&lt;br&gt;&lt;img</summary>
+        
+      
+    
+    
+    
+    <category term="虚拟机" scheme="https://hnest.github.io/categories/vm/"/>
+    
+    
+    <category term="Windows" scheme="https://hnest.github.io/tags/Windows/"/>
+    
+    <category term="WSL2" scheme="https://hnest.github.io/tags/WSL2/"/>
+    
+    <category term="教程" scheme="https://hnest.github.io/tags/%E6%95%99%E7%A8%8B/"/>
+    
+    <category term="Ubuntu" scheme="https://hnest.github.io/tags/Ubuntu/"/>
+    
+    <category term="Debian" scheme="https://hnest.github.io/tags/Debian/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>WSL2无法运行GUI软件cannot open display: :0</title>
+    <link href="https://hnest.github.io/posts/36147"/>
+    <id>https://hnest.github.io/posts/36147</id>
+    <published>2024-10-09T22:53:23.000Z</published>
+    <updated>2025-03-03T19:30:10.040Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;总结&quot;&gt;&lt;a href=&quot;#总结&quot; class=&quot;headerlink&quot; title=&quot;总结&quot;&gt;&lt;/a&gt;总结&lt;/h2&gt;&lt;p&gt;TLDR💡废话不多说，直接上解决办法，&lt;/p&gt;
+&lt;div class=&quot;note</summary>
+        
+      
+    
+    
+    
+    <category term="虚拟机" scheme="https://hnest.github.io/categories/vm/"/>
+    
+    
+    <category term="Windows" scheme="https://hnest.github.io/tags/Windows/"/>
+    
+    <category term="WSL2" scheme="https://hnest.github.io/tags/WSL2/"/>
+    
+    <category term="Fedora" scheme="https://hnest.github.io/tags/Fedora/"/>
+    
+    <category term="Red Hat" scheme="https://hnest.github.io/tags/Red-Hat/"/>
+    
+    <category term="教程" scheme="https://hnest.github.io/tags/%E6%95%99%E7%A8%8B/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>在Fedora上安装NVIDIA驱动详细教程及解析</title>
+    <link href="https://hnest.github.io/posts/25438"/>
+    <id>https://hnest.github.io/posts/25438</id>
+    <published>2024-02-06T22:45:06.000Z</published>
+    <updated>2025-03-03T19:30:10.039Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;在经历了各种尝试和试错之后，发现并总结出了比较合适、安全且合理的NVIDIA闭源驱动安装方案，本教程基于Fedora</summary>
+        
+      
+    
+    
+    
+    <category term="系统优化" scheme="https://hnest.github.io/categories/os/"/>
+    
+    
+    <category term="Fedora" scheme="https://hnest.github.io/tags/Fedora/"/>
+    
+    <category term="教程" scheme="https://hnest.github.io/tags/%E6%95%99%E7%A8%8B/"/>
+    
+    <category term="Linux" scheme="https://hnest.github.io/tags/Linux/"/>
+    
+    <category term="RedHat" scheme="https://hnest.github.io/tags/RedHat/"/>
+    
+    <category term="NVIDIA" scheme="https://hnest.github.io/tags/NVIDIA/"/>
+    
+    <category term="英伟达" scheme="https://hnest.github.io/tags/%E8%8B%B1%E4%BC%9F%E8%BE%BE/"/>
+    
+    <category term="驱动" scheme="https://hnest.github.io/tags/%E9%A9%B1%E5%8A%A8/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>恢复“此电脑”中的个人文件夹显示</title>
+    <link href="https://hnest.github.io/posts/41981"/>
+    <id>https://hnest.github.io/posts/41981</id>
+    <published>2023-03-21T20:48:05.000Z</published>
+    <updated>2025-03-03T19:30:10.040Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;blockquote&gt;
+&lt;p&gt;“&lt;strong&gt;此电脑&lt;/strong&gt;”里居然只剩下了驱动器？&lt;br&gt;&lt;code&gt;图片&lt;/code&gt;、&lt;code&gt;视频&lt;/code&gt;、&lt;code&gt;文档&lt;/code&gt;、&lt;code&gt;下载&lt;/code&gt;、&lt;code&gt;音乐&lt;/code&gt;和&lt;code&gt;桌</summary>
+        
+      
+    
+    
+    
+    <category term="系统优化" scheme="https://hnest.github.io/categories/os/"/>
+    
+    
+    <category term="Windows" scheme="https://hnest.github.io/tags/Windows/"/>
+    
+    <category term="教程" scheme="https://hnest.github.io/tags/%E6%95%99%E7%A8%8B/"/>
+    
+    <category term="此电脑" scheme="https://hnest.github.io/tags/%E6%AD%A4%E7%94%B5%E8%84%91/"/>
+    
+    <category term="注册表" scheme="https://hnest.github.io/tags/%E6%B3%A8%E5%86%8C%E8%A1%A8/"/>
+    
+    <category term="批处理" scheme="https://hnest.github.io/tags/%E6%89%B9%E5%A4%84%E7%90%86/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Windows 最佳拍档 Fedora Remix for WSL2</title>
+    <link href="https://hnest.github.io/posts/10117"/>
+    <id>https://hnest.github.io/posts/10117</id>
+    <published>2023-01-31T20:56:44.000Z</published>
+    <updated>2025-03-03T19:30:10.039Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Whitewater Foundry 团队推出了 Fedora Remix for WSL，目前可以直接从微软商城安装，是专为 WSL 设计的受欢迎系统 Fedora Linux 的一个 “remix”，带来了 Fedora</summary>
+        
+      
+    
+    
+    
+    <category term="虚拟机" scheme="https://hnest.github.io/categories/vm/"/>
+    
+    
+    <category term="Windows" scheme="https://hnest.github.io/tags/Windows/"/>
+    
+    <category term="WSL2" scheme="https://hnest.github.io/tags/WSL2/"/>
+    
+    <category term="Fedora" scheme="https://hnest.github.io/tags/Fedora/"/>
+    
+    <category term="Red Hat" scheme="https://hnest.github.io/tags/Red-Hat/"/>
+    
+    <category term="教程" scheme="https://hnest.github.io/tags/%E6%95%99%E7%A8%8B/"/>
+    
+    <category term="白嫖" scheme="https://hnest.github.io/tags/%E7%99%BD%E5%AB%96/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Microsoft 365 E5 白嫖教程（二）</title>
+    <link href="https://hnest.github.io/posts/49828"/>
+    <id>https://hnest.github.io/posts/49828</id>
+    <published>2022-04-11T22:01:45.000Z</published>
+    <updated>2025-03-03T19:30:10.040Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;blockquote&gt;
+&lt;p&gt;想要自动续期 Microsoft 365 E5 开发者订阅计划看过来！&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h4 id=&quot;本文主要介绍如何免费续期-Microsoft-365-E5-开发者订阅（下面简称E5）！&quot;&gt;&lt;a</summary>
+        
+      
+    
+    
+    
+    <category term="办公软件" scheme="https://hnest.github.io/categories/office/"/>
+    
+    
+    <category term="教程" scheme="https://hnest.github.io/tags/%E6%95%99%E7%A8%8B/"/>
+    
+    <category term="白嫖" scheme="https://hnest.github.io/tags/%E7%99%BD%E5%AB%96/"/>
+    
+    <category term="Office" scheme="https://hnest.github.io/tags/Office/"/>
+    
+    <category term="Microsoft 365" scheme="https://hnest.github.io/tags/Microsoft-365/"/>
+    
+    <category term="进阶" scheme="https://hnest.github.io/tags/%E8%BF%9B%E9%98%B6/"/>
+    
+    <category term="续期" scheme="https://hnest.github.io/tags/%E7%BB%AD%E6%9C%9F/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Microsoft 365 E5 白嫖教程（一）</title>
+    <link href="https://hnest.github.io/posts/21214"/>
+    <id>https://hnest.github.io/posts/21214</id>
+    <published>2022-04-10T22:01:03.000Z</published>
+    <updated>2025-03-03T19:30:10.040Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;blockquote&gt;
+&lt;p&gt;微软宣布&lt;code&gt;Office 365&lt;/code&gt;将于2020年4月21日正式升级为 &lt;code&gt;Microsoft 365&lt;/code&gt;。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h4</summary>
+        
+      
+    
+    
+    
+    <category term="办公软件" scheme="https://hnest.github.io/categories/office/"/>
+    
+    
+    <category term="教程" scheme="https://hnest.github.io/tags/%E6%95%99%E7%A8%8B/"/>
+    
+    <category term="白嫖" scheme="https://hnest.github.io/tags/%E7%99%BD%E5%AB%96/"/>
+    
+    <category term="Office" scheme="https://hnest.github.io/tags/Office/"/>
+    
+    <category term="Microsoft 365" scheme="https://hnest.github.io/tags/Microsoft-365/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>PC虚拟机快速体验macOS Catalina(10.15)</title>
+    <link href="https://hnest.github.io/posts/19242"/>
+    <id>https://hnest.github.io/posts/19242</id>
+    <published>2020-05-27T21:03:31.000Z</published>
+    <updated>2025-03-03T19:30:10.040Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;!-- wp:paragraph {&quot;dropCap&quot;:true} --&gt;
+&lt;p class=&quot;has-drop-cap&quot;&gt;PC上偷渡黑苹果向来比较费事儿，说起来还是虚拟机好使，可以非常方便地体验到macOS系统，app</summary>
+        
+      
+    
+    
+    
+    <category term="虚拟机" scheme="https://hnest.github.io/categories/vm/"/>
+    
+    
+    <category term="Windows" scheme="https://hnest.github.io/tags/Windows/"/>
+    
+    <category term="教程" scheme="https://hnest.github.io/tags/%E6%95%99%E7%A8%8B/"/>
+    
+    <category term="VMWare" scheme="https://hnest.github.io/tags/VMWare/"/>
+    
+    <category term="macOS" scheme="https://hnest.github.io/tags/macOS/"/>
+    
+    <category term="Catalina" scheme="https://hnest.github.io/tags/Catalina/"/>
+    
+    <category term="虚拟机" scheme="https://hnest.github.io/tags/%E8%99%9A%E6%8B%9F%E6%9C%BA/"/>
+    
+    <category term="黑苹果" scheme="https://hnest.github.io/tags/%E9%BB%91%E8%8B%B9%E6%9E%9C/"/>
+    
+    <category term="偷渡" scheme="https://hnest.github.io/tags/%E5%81%B7%E6%B8%A1/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>高大上的微信文章</title>
+    <link href="https://hnest.github.io/posts/19687"/>
+    <id>https://hnest.github.io/posts/19687</id>
+    <published>2019-09-30T21:24:40.000Z</published>
+    <updated>2025-03-03T19:30:10.040Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;说实话，简单的 word 文字排版 插入图片模式很多人都不会好吗。套上了花里胡哨的模板、样式，一样阅读体验很差。就先从文字排版说起。&lt;/p&gt;&lt;p&gt;● 整体排版下面这3张图的对比应该很明显了。&lt;/p&gt;&lt;p&gt;&lt;img class=&quot;origin_image</summary>
+        
+      
+    
+    
+    
+    <category term="涨姿势" scheme="https://hnest.github.io/categories/tutorial/"/>
+    
+    
+    <category term="教程" scheme="https://hnest.github.io/tags/%E6%95%99%E7%A8%8B/"/>
+    
+    <category term="办公软件" scheme="https://hnest.github.io/tags/%E5%8A%9E%E5%85%AC%E8%BD%AF%E4%BB%B6/"/>
+    
+    <category term="微信" scheme="https://hnest.github.io/tags/%E5%BE%AE%E4%BF%A1/"/>
+    
+    <category term="推文" scheme="https://hnest.github.io/tags/%E6%8E%A8%E6%96%87/"/>
+    
+    <category term="排版" scheme="https://hnest.github.io/tags/%E6%8E%92%E7%89%88/"/>
+    
+    <category term="新媒体" scheme="https://hnest.github.io/tags/%E6%96%B0%E5%AA%92%E4%BD%93/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="https://hnest.github.io/posts/16107"/>
+    <id>https://hnest.github.io/posts/16107</id>
+    <published>2014-10-01T18:28:38.000Z</published>
+    <updated>2025-03-03T19:30:10.040Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt;</summary>
+        
+      
+    
+    
+    
+    <category term="涨姿势" scheme="https://hnest.github.io/categories/tutorial/"/>
+    
+    
+    <category term="日常" scheme="https://hnest.github.io/tags/%E6%97%A5%E5%B8%B8/"/>
+    
+  </entry>
+  
+</feed>
